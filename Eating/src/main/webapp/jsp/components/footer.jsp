@@ -2,17 +2,16 @@
 <!DOCTYPE html>
 <html>
   <head>
- <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="css/common.min.css" />
-    <link rel="stylesheet" href="css/css-library.min.css" />
-    <link rel="stylesheet" href="css/main.min.css" />
+    <head>
+      <meta charset="UTF-8" />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link rel="stylesheet" href="css/common.min.css" />
+      <link rel="stylesheet" href="css/css-library.min.css" />
+      <link rel="stylesheet" href="css/main.min.css" />
 
-
-    <title>Document</title>
-  </head>
+      <title>Document</title>
+    </head>
   </head>
   <body>
     <footer id="footer">
@@ -54,7 +53,7 @@
           <div id="fnDawnBizpCrstList">
             <strong>(주)현대백화점</strong><br /><span>대표이사 : 김형종 외 2인</span><span> 주소 : 서울 강남구 테헤란로98길 12 (대치동) 현대백화점</span><br />전화 : 02-1800-9549<br />이메일 : tohome@thehyundai.com<br />사업자 등록번호 : 211-87-21455<a href="#" onclick="javascript:fnAppLoad('http://www.ftc.go.kr/bizCommPop.do?wrkr_no=2118721455');return false;">사업자등록확인</a><br />통신판매업자 신고번호 : 2010-서울강남-01882<br />
             <p class="essential-info">
-              <em>현대식품관 투홈의 개별 판매자가 등록한 상품(브랜드직송) 상품에 대한 광고, 상품주문, 배송, 환불의 의무와 책임은 각 판매자가 부담하고,<br />현대식품관 투홈은 통신판매 중개자로서의 의무와 책임을 다합니다.</em><br />고객님의 안전거래를 위해 현금결제 시 KG이니시스 구매안전 서비스를 이용하실 수 있습니다.<button type="button" class="confirm-btn" onclick="fn.popupOpen('#guaranteePopup')" ;="">서비스 가입사실 확인</button>
+              <em>현대식품관 투홈의 개별 판매자가 등록한 상품(브랜드직송) 상품에 대한 광고, 상품주문, 배송, 환불의 의무와 책임은 각 판매자가 부담하고,<br />현대식품관 투홈은 통신판매 중개자로서의 의무와 책임을 다합니다.</em><br />고객님의 안전거래를 위해 현금결제 시 KG이니시스 구매안전 서비스를 이용하실 수 있습니다.<button type="button" class="confirm-btn" onclick="fn.popupOpen('#guaranteePopup')">서비스 가입사실 확인</button>
             </p>
             <small class="copyright">Copyright © Hyundai Department Store. All rights reserved.</small>
           </div>
